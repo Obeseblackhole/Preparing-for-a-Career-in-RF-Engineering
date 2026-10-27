@@ -49,10 +49,20 @@ Without practical experience we would not be able to use the equipment that a jo
 
 
 ## Applying and Outreach
+To get into the job force as a RF Engineer—you need to apply for a job and for that to happen you need to know who is hiring, what they are looking for, and how you can get in.
 ### Why it Matters
-
+There are so many factors involved in getting a job, especially when getting into RF engineering, that it can be overwhelming. Being prepared can help give you steps to take and feel more manageable. 
+Finding the right resources and using them to help you understand this process and what works best for you will also make this entire process easier [2].
 ### Best Practices
-
+-	Use your advisor, Career services, and whatever other resources you can get your firsthand that you think will help you in this process.
+1.	Finding Jobs: Job fairs (Best), Career services, Online job searches with RF engineering.
+      *  For Job fair; dress nice, bring resume, build and bring project portfolio.
+          *  At booth; Great them, introduce yourself, show resume and ask them about what their company is about, what they do.
+          * Get their contact info if you can and reach out after.
+          * Ask them what they are looking for then walk them through your resume and projects
+          * After you have finished with the recruiter, thank them for their time and rinse and repeat.
+2. Follow career services guidance
+3. Apply for online jobs; match resume to job requirements for each job and write a cover letter connecting your resume to the jobs requirements and desires.
 ## Progress Plan
 
 ## References
@@ -67,7 +77,7 @@ Without practical experience we would not be able to use the equipment that a jo
 \
 [4] "RF Engineer I." October 2026. *ZipRecruiter*. Shield AI. Web. 20 October 2026.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<[https://www.ziprecruiter.com/jobs-
-search?search=telecommunications+engineer&location=Everett](https://www.ziprecruiter.com/jobs-search?search=telecommunications+engineer&location=Everett%2C+WA&radius=25&days=&refine_by_employment=&refine_by_location_type=&refine_by_salary=&refine_by_salary_ceil=&refine_by_apply_type=&refine_by_experience_level=&seniority_filters_explicitly_set=&apply_types_explicitly_set=&employment_types_explicitly_set=&location_types_explicitly_set=&radius_explicitly_set=&lk=t_q9ajc4w-8w2n4HsUxqNw)>. \
-\
+search?search=telecommunications+engineer&location=Everett](https://www.ziprecruiter.com/jobs-search?search=telecommunications+engineer&location=Everett%2C+WA&radius=25&days=&refine_by_employment=&refine_by_location_type=&refine_by_salary=&refine_by_salary_ceil=&refine_by_apply_type=&refine_by_experience_level=&seniority_filters_explicitly_set=&apply_types_explicitly_set=&employment_types_explicitly_set=&location_types_explicitly_set=&radius_explicitly_set=&lk=t_q9ajc4w-8w2n4HsUxqNw)>. 
+Word Count - Just written under headers = (699) (:
 [5] "Why Do Clubs in College Matter?" N.d. *Tuition rewards*. Web. 22 October 2026.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<https://www.tuitionrewards.com/newsroom/articles/83/why-do-clubs-in-college-matter>>.
