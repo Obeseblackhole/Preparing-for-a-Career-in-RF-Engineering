@@ -36,9 +36,16 @@ If none are available, do the following:
 
 
 ## Gain Practical Expereince
+Experience in general can give us insights and allow us to adjust to that new environment. RF Engineers work in a wide range of office conditions with different people from different departments. Working with different equipment, building a wide range of products.
 ### Why it Matters
-
+Without practical experience we would not be able to use the equipment that a job may ask of you, you may not know how to work within teams, or how to work in a dynamic environment like the ones in industry.
 ### Best Practices
+- Get connected to clubs that are in or related to RF engineering i.e. IEEE Bothell, Circuits Club, Grey Hat Hackers.
+- Go to the workshops and learn as much as possible [5].
+- Volunteer in those clubs if you can; IEEE events and get tips from people in industry.
+
+- Work on person projects that encapsulate designing, software tools, lab equipment (VNA’s, spectrum analyzers, oscilloscopes), and hands on circuits and antennas [3][4].
+  - spend at least 3 hours a week working on it.
 
 
 ## Applying and Outreach
