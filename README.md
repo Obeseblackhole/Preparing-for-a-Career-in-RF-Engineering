@@ -64,6 +64,7 @@ Finding the right resources and using them to help you understand this process a
 2. Follow career services guidance
 3. Apply for online jobs; match resume to job requirements for each job and write a cover letter connecting your resume to the jobs requirements and desires.
 ## Progress Plan
+<img width="237" height="430" alt="Screenshot 2026-10-27 003703" src="https://github.com/user-attachments/assets/cca2c569-c44e-436b-9ddb-9e9c590c7c30" />
 
 ## References
 [1] "RF Engineer: Radio Frequency Engineer Description, Skills." N.d. *fieldengineer*. October 26, 2026.\
