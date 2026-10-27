@@ -1,7 +1,7 @@
 # Preparing-for-a-Career-in-RF-Engineering
-Prepared for:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Husky students pursuing a job as a Radio Frequency (RF) Engineer\
-Prepared by:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ryan Austin\
-Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 26, 2026 
+**Prepared for:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Husky students pursuing a job as a Radio Frequency (RF) Engineer\
+**Prepared by:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ryan Austin\
+**Date:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October 26, 2026 
 
 ## Table of Contents
 1. [Purpose](#purpose)
