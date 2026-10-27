@@ -15,6 +15,8 @@ Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 ## Purpose
 Preparing for a career as a Radio Frequency (RF) Engineer requires more than completing an electrical engineering degree. You need to develop a strong understanding of electromagnetic waves, circuit design, antenna systems, and wireless communications. RF engineers help design, test, and improve technologies used in telecommunications, satellite communications, radar systems, and wireless devices. By following the best practices outlined in this graduation learning plan, you can strengthen your technical knowledge, gain hands-on experience with RF equipment, and develop the professional skills needed to successfully apply for entry-level RF engineering positions after graduation.
+
+
 ## Develop Technical Knowledge
 ### Why it Matters
 
