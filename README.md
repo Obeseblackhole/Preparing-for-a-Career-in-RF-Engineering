@@ -6,10 +6,10 @@ Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 ## Table of Contents
 1. [Purpose](#purpose)
 2. [Develop Technical Knowledge](#develop-technical-knowledge)
-4. Gain Practical Expereince
-7. Applying and Outreach
-9. Progress Plan
-10. References
+4. [Gain Practical Expereince](#gain-practical-expereince)
+7. [Applying and Outreach](#applying-and-outreach)
+9. [Progress Plan](#progress-plan)
+10. [References](#references)
 
 
 
