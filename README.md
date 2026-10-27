@@ -18,8 +18,8 @@ Preparing for a career as a Radio Frequency (RF) Engineer requires more than com
 
 
 ## Develop Technical Knowledge
-### Why it Matters
 RF Engineers analyze radio frequencies, electrical systems, evaluate equipment, and design new technologies within the field. These responsibilities require knowledge of but not limited to, programming and data analysis skills in Python, MATLAB. Familiarized with RF simulation tools such as ADS (Advanced Design System), AWR (Applied Wave Research) tool kit, HFSS (High-Frequency Structure Simulator), or CST (Computer Simulation Technology) [1].
+### Why it Matters
 Without the technical knowledge using these tools you will not be seen as a candidate to hiring managers. They need engineers who know enough about the tools to be able to navigate the workspace even though you are coming out of college.
 
 ### Best Practices
