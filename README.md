@@ -36,7 +36,7 @@ If none are available, do the following:
 
 
 ## Gain Practical Expereince
-Experience in general can give us insights and allow us to adjust to that new environment. RF Engineers work in a wide range of office conditions with different people from different departments. Working with different equipment, building a wide range of products.
+Experience in general can give you insights and allow you to adjust to that new environment. RF Engineers work in a wide range of office conditions with different people from different departments. Working with different equipment, building a wide range of products.
 ### Why it Matters
 Without practical experience we would not be able to use the equipment that a job may ask of you, you may not know how to work within teams, or how to work in a dynamic environment like the ones in industry.
 ### Best Practices
@@ -49,16 +49,16 @@ Without practical experience we would not be able to use the equipment that a jo
 
 
 ## Applying and Outreach
-To get into the job force as a RF Engineer—you need to apply for a job and for that to happen you need to know who is hiring, what they are looking for, and how you can get in.
+To get into the job force as a RF Engineer you need to apply for a job and for that to happen you need to know who is hiring, what they are looking for, and how you can get in.
 ### Why it Matters
 There are so many factors involved in getting a job, especially when getting into RF engineering, that it can be overwhelming. Being prepared can help give you steps to take and feel more manageable. 
 Finding the right resources and using them to help you understand this process and what works best for you will also make this entire process easier [2].
 ### Best Practices
 -	Use your advisor, Career services, and whatever other resources you can get your firsthand that you think will help you in this process.
 1.	Finding Jobs: Job fairs (Best), Career services, Online job searches with RF engineering.
-      *  For Job fair; dress nice, bring resume, build and bring project portfolio.
-          1.  At booth; Great them, introduce yourself, show resume and ask them about what their company is about, what they do.
-          2. Get their contact info if you can and reach out after.
+      *  For Job fair: dress nice, bring resume, build and bring project portfolio.
+          1.  At booth: Great them, introduce yourself, show resume and ask them about what their company is about, what they do.
+          2. Get their contact info if you can and reach out after on Linkedin.
           3. Ask them what they are looking for then walk them through your resume and projects
           4. After you have finished with the recruiter, thank them for their time and rinse and repeat.
 2. Follow career services guidance
@@ -67,20 +67,20 @@ Finding the right resources and using them to help you understand this process a
 <img width="237" height="430" alt="Screenshot 2026-10-27 003703" src="https://github.com/user-attachments/assets/cca2c569-c44e-436b-9ddb-9e9c590c7c30" />
 
 ## References
-[1] "RF Engineer: Radio Frequency Engineer Description, Skills." N.d. *fieldengineer*. October 26, 2026.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<https://www.fieldengineer.com/skills/rf-engineer>>.\
+[1] fieldengineer "RF Engineer: Radio Frequency Engineer Description, Skills." N.d. [Online]. Available:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<https://www.fieldengineer.com/skills/rf-engineer>[AcccessedOct 26,,2026]>.\
 \
-[2] "Career Services." N.d. *UW Bothell*. Web. October 22,2026.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<https://www.uwb.edu/career-services/>>.\
+[2] UW Bothell "Career Services." N.d. [Online]. Available:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<https://www.uwb.edu/career-services/>[Acccessed Oct. 22,2026]>.\
 \
-[3] "Suggestions for RF Projects & Self-Study for Students and Non-Traditional Students." N.d. *Ellingsonvt*. Web. October 22,2026.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<https://ellingsonvt.info/a/220128_RF_Projects.pdf>>.\
+[3] Ellingsonvt "Suggestions for RF Projects & Self-Study for Students and Non-Traditional Students." N.d. [Online]. Available:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<https://ellingsonvt.info/a/220128_RF_Projects.pdf>[Acccessed Oct. 22,2026]>.\
 \
-[4] "RF Engineer I." October 2026. *ZipRecruiter*. Shield AI. Web. 20 October 2026.\
+[4] Shield AI. "RF Engineer I." *ZipRecruiter*. October 2026. [Online]. Available:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<[https://www.ziprecruiter.com/jobs-
-search?search=telecommunications+engineer&location=Everett](https://www.ziprecruiter.com/jobs-search?search=telecommunications+engineer&location=Everett%2C+WA&radius=25&days=&refine_by_employment=&refine_by_location_type=&refine_by_salary=&refine_by_salary_ceil=&refine_by_apply_type=&refine_by_experience_level=&seniority_filters_explicitly_set=&apply_types_explicitly_set=&employment_types_explicitly_set=&location_types_explicitly_set=&radius_explicitly_set=&lk=t_q9ajc4w-8w2n4HsUxqNw)>.\
+search?search=telecommunications+engineer&location=Everett](https://www.ziprecruiter.com/jobs-search?search=telecommunications+engineer&location=Everett%2C+WA&radius=25&days=&refine_by_employment=&refine_by_location_type=&refine_by_salary=&refine_by_salary_ceil=&refine_by_apply_type=&refine_by_experience_level=&seniority_filters_explicitly_set=&apply_types_explicitly_set=&employment_types_explicitly_set=&location_types_explicitly_set=&radius_explicitly_set=&lk=t_q9ajc4w-8w2n4HsUxqNw)[Accessed Oct. 20, 2026]>.\
 \
-[5] "Why Do Clubs in College Matter?" N.d. *Tuition rewards*. Web. 22 October 2026.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<https://www.tuitionrewards.com/newsroom/articles/83/why-do-clubs-in-college-matter>>.\
+[5] Tuition reward "Why Do Clubs in College Matter?" N.d. [Online]. Availble:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<https://www.tuitionrewards.com/newsroom/articles/83/why-do-clubs-in-college-matter>Acccessed Oct. 22,2026]>.\
 \
 Word Count - Just written under headers = (699) (:
