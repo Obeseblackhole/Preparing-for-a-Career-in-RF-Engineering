@@ -57,10 +57,10 @@ Finding the right resources and using them to help you understand this process a
 -	Use your advisor, Career services, and whatever other resources you can get your firsthand that you think will help you in this process.
 1.	Finding Jobs: Job fairs (Best), Career services, Online job searches with RF engineering.
       *  For Job fair; dress nice, bring resume, build and bring project portfolio.
-          *  At booth; Great them, introduce yourself, show resume and ask them about what their company is about, what they do.
-          * Get their contact info if you can and reach out after.
-          * Ask them what they are looking for then walk them through your resume and projects
-          * After you have finished with the recruiter, thank them for their time and rinse and repeat.
+          1.  At booth; Great them, introduce yourself, show resume and ask them about what their company is about, what they do.
+          2. Get their contact info if you can and reach out after.
+          3. Ask them what they are looking for then walk them through your resume and projects
+          4. After you have finished with the recruiter, thank them for their time and rinse and repeat.
 2. Follow career services guidance
 3. Apply for online jobs; match resume to job requirements for each job and write a cover letter connecting your resume to the jobs requirements and desires.
 ## Progress Plan
